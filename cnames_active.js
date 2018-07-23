@@ -573,6 +573,7 @@ var cnames_active = {
   "italia": "milano-js.github.io/italia-js", // noCF? (don´t add this in a new PR)
   "itsashis4u": "itsashis4u.github.io", // noCF? (don´t add this in a new PR)
   "itunes-bridge": "angrykiller.github.io/iTunes-bridge",
+  "iqbalfasri": "iqbalfasri.github.io/iqbalfasri",
   "ivml": "influencetech.github.io/ivml", // noCF? (don´t add this in a new PR)
   "j2p": "j2p.github.io", // noCF? (don´t add this in a new PR)
   "jacques": "jacquesmarais.github.io/jacques", // noCF? (don´t add this in a new PR)
